@@ -1,0 +1,15 @@
+c:\users\chris\documents\visual studio 2015\Projects\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\Selenium Starter Framework.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Selenium Starter Framework\Selenium Starter Framework\obj\Debug\Selenium Starter Framework.csprojResolveAssemblyReference.cache
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\Selenium Starter Framework.exe.config
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\obj\Debug\Selenium Starter Framework.csprojResolveAssemblyReference.cache
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\Selenium Starter Framework.exe
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\Selenium Starter Framework.pdb
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\nunit.framework.dll
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\WebDriver.dll
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\WebDriver.Support.dll
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\nunit.framework.xml
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\WebDriver.xml
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\bin\Debug\WebDriver.Support.xml
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\obj\Debug\Selenium Starter Framework.exe
+C:\Work\Selenium Starter Framework\Selenium Starter Framework\obj\Debug\Selenium Starter Framework.pdb
